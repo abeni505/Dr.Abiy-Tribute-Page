@@ -1,0 +1,41 @@
+#img-div{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 70%;
+  height: auto;
+  justify-content: center;
+}
+#image{
+
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  width: 48%;
+  height: auto;
+}
+
+.center{
+    text-align: center;
+    background-color: black;
+    color: silver;
+    font-size: 64;
+}
+.intro{
+  font-size: 18:
+
+}
+
+#main{
+  background-color: silver;
+
+}
+.below-title{
+  text-align: center;
+  font-size: 30;
+}
+#img-caption{
+  text-align: center;
+}
